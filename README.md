@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 # Welcome My House
 
 <!--백준(코딩 연습 사이트) 기록-->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdwn57@nate.com)](https://solved.ac/tmdwn57@nate.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdwn57)](https://solved.ac/tmdwn57)
 
 <!--연락처, 혹은 소셜-->
 # Contact 
