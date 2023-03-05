@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!--연락처, 혹은 소셜-->
 # Contact 
 <a>Mail : zmffotm57@gmail.com, </a><a href="mailto:zmffotm57@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/GMail-EA4335?&style=flat-square&logo=GMail&logoColor=white"/></a>
-# [Portfolio] (https://www.notion.so/ff4df3c169a540c48ef501af830b30bc)
+💬 [Portfolio] (https://www.notion.so/ff4df3c169a540c48ef501af830b30bc)
 
 <!--기술(버튼, 언어)버튼화-->
 <!--주의! 꼭 자신있는 언어, 플랫폼만 올려놓으세요!!!-->
