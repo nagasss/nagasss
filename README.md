@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### 꾸준히 성장하는 개발자 김승주
 
 <!--
 **nagasss/nagasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
